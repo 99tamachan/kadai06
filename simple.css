@@ -67,7 +67,7 @@
     font-size: 11px;  /* トーク文字サイズ 相手 */
   }
   
-  /*  吹き出し　相手 */
+  /*  吹き出し相手 */
   .line__container .line__left .text::after {
     content: '';
     position: absolute;
